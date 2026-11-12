@@ -1,0 +1,6 @@
+{
+  "name": "Toán Học Vui Nhộn - Bé Giỏi Tính Nhẩm",
+  "description": "Ứng dụng học toán tương tác sinh động dành cho học sinh tiểu học với phép cộng, trừ, nhân, chia, hình ảnh minh họa kẹo ngọt và âm thanh vui nhộn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
